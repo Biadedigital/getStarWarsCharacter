@@ -13,4 +13,4 @@ on Ui
 
 ## Code
 - [Code-on-Replit](https://replit.com/@Biademade/getStarWarsCharacter?v=1)
-- [Code-on-Github](https://github.com/Biadedigital/Form-Change-Ui-ReactJS)
+- [Code-on-Github](https://github.com/Biadedigital/getStarWarsCharacter)
